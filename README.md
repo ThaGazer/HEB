@@ -14,7 +14,7 @@ Run the generated jar file
 Site should be running on `localhost:8080` and you can hit the endpoints with `curl`
 or `postman`.
 
-####Endpoint Format
+#### Endpoint Format
 - http://localhost:8080/cart
 - http://localhost:8080/cart/feat1
 - http://localhost:8080/cart/feat2
