@@ -1,7 +1,7 @@
 ### To Run
 Navigate to project directory
 
-    cd <my_rpoject>
+    cd <my_project>
 
 Build project. Maven must be pre-installed
 
